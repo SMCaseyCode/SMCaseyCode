@@ -1,16 +1,15 @@
 ### Hi there 👋
+------------------------------------
+I'm Steven Casey. I am a computer science student at California State University of Monterey Bay. I have experience in Java and C++. I am always looking for new opportunities!
 
-<!--
-**SMCaseyCode/SMCaseyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal Info:
+------------------------------------
+- :two_men_holding_hands: Always looking to connect
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love photography and cinematography.
 
-Here are some ideas to get you started:
+### Where to find me:
+------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/steven-casey-0914801a1/)
+- Discord: ScaseyPics#0101
