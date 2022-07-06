@@ -6,7 +6,7 @@ I'm Steven Casey. I am a computer science student at California State University
 ------------------------------------
 - :two_men_holding_hands: Always looking to connect
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love photography and cinematography.
+- ⚡ Fun fact: I love photography, cinematography, and all things tech!
 
 ### Where to find me:
 ------------------------------------
