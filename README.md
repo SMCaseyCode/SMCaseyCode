@@ -7,5 +7,5 @@ I'm Steven Casey. I am a computer science student at California State University
 - ⚡ Fun fact: I love photography, cinematography, and all things tech!
 
 ## Where to find me:
-- [LinkedIn](https://www.linkedin.com/in/steven-casey-0914801a1/)
+- [LinkedIn](https://www.linkedin.com/in/CaseySteven/)
 - Discord: ScaseyPics#0101
