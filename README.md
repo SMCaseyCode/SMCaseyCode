@@ -8,4 +8,4 @@ I'm Steven Casey. I am a computer science student at California State University
 
 ## Where to find me:
 - [LinkedIn](https://www.linkedin.com/in/CaseySteven/)
-- Discord: ScaseyPics#0101
+- Discord: DocSnipe#0101
