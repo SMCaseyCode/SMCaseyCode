@@ -3,7 +3,8 @@ I'm Steven Casey. I am a computer science student at California State University
 
 ## Personal Info:
 - :two_men_holding_hands: Always looking to connect
-- 📖 Currently Learning: JS, CSS, React, C
+- 📖 Currently Learning: Python, React
+- 💻 Currently Experienced Using: C++, Java, C, HTML, mySQL, MongoDB, JavaScript
 - ⚡ Fun fact: I love photography, cinematography, gaming, and all things tech!
 
 ## Where to find me:
