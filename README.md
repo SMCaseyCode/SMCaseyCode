@@ -1,4 +1,4 @@
-<h1 >Hello! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 >Hello! 👋</h1>
 I'm Steven Casey, a computer science student currently studdying at California State University of Monterey Bay.<br>
 I am always looking for new opportunities!
 
