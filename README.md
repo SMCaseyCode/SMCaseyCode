@@ -2,10 +2,10 @@
 I'm Steven Casey, a computer science student currently studdying at California State University of Monterey Bay.<br>
 I am always looking for new opportunities!
 
-## Personal Info:
+## About Me:
 - :two_men_holding_hands: Always looking to connect
-- 📖 Currently Learning: Python, React
-- 💻 Currently Experienced Using: C++, Java, C, HTML, CSS, mySQL, MongoDB, JavaScript
+- 🔍 Searching for Internships and Entry Level positions
+- 💻 Currently Experienced Using: Java, JavaScript, HTML, CSS, C++, SQL
 - ⚡ Fun fact: I love photography, cinematography, gaming, and all things tech!
 
 ## Where to find me:
