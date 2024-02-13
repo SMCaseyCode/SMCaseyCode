@@ -1,5 +1,5 @@
 <h1 >Hello! 👋</h1>
-I'm Steven Casey, a computer science student currently studdying at California State University of Monterey Bay.<br>
+I'm Steven Casey, a computer science student currently studying at California State University of Monterey Bay.<br>
 I am always looking for new opportunities!
 
 ## About Me:
